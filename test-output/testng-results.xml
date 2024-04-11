@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-10T09:26:46 COT" name="Default suite" finished-at="2024-04-10T09:30:24 COT" duration-ms="217502">
+    <groups>
+    </groups>
+    <test started-at="2024-04-10T09:26:46 COT" name="Default test" finished-at="2024-04-10T09:30:24 COT" duration-ms="217502">
+      <class name="test.RunTestShoping">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.RunTestShoping@682b2fa]" started-at="2024-04-10T09:26:46 COT" name="beforeClass" finished-at="2024-04-10T09:27:15 COT" duration-ms="28720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="shopingTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:test.RunTestShoping@682b2fa]" started-at="2024-04-10T09:27:31 COT" name="shopingTest" data-provider="shoping" finished-at="2024-04-10T09:30:22 COT" duration-ms="170874" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercado libre]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[portatil lenovo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[54673ggdstt@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopingTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.RunTestShoping@682b2fa]" started-at="2024-04-10T09:30:22 COT" name="afterClass" finished-at="2024-04-10T09:30:24 COT" duration-ms="2120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.RunTestShoping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

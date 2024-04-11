@@ -1,0 +1,4 @@
+url=https://google.com/
+filePathExcel=./data/dataShoping.xlsx
+outputFile=./output/
+rutaImagenReporte=./imagenes/logo.png
